@@ -137,7 +137,7 @@ const Portfolio: React.FC = () => {
         <div className="max-w-6xl mx-auto px-4 text-center">
           <div className="py-20">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Hi, I'm Ayush Rana
+              Hi, I&apos;m Ayush Rana
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8">
               Full Stack Web Developer
@@ -178,7 +178,7 @@ const Portfolio: React.FC = () => {
             </div>
             <div>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                I'm a passionate full-stack developer with 1.5+ years of experience building web applications. 
+                I&apos;m a passionate full-stack developer with 1.5+ years of experience building web applications. 
                 I enjoy working with modern technologies and creating solutions that make a difference.
               </p>
               <p className="text-gray-600 mb-6 leading-relaxed">
