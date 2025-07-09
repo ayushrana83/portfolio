@@ -274,8 +274,8 @@ const Portfolio: React.FC = () => {
             Get In Touch
           </h2>
           <p className="text-gray-600 mb-12 max-w-2xl mx-auto">
-            I'm always interested in new opportunities and interesting projects. 
-            Feel free to reach out if you'd like to work together!
+            I&apos;m always interested in new opportunities and interesting projects. 
+            Feel free to reach out if you&apos;d like to work together!
           </p>
           
           <div className="grid md:grid-cols-3 gap-8 mb-12">
